@@ -1,4 +1,4 @@
-#!/bin/bash
+# Version 1.0 - Main Branch  #!/bin/bash
 echo "==============================="
 echo "   SYSTEM INFORMATION REPORT"
 echo "==============================="
