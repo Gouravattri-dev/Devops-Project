@@ -1,4 +1,6 @@
-# 🐧 Linux DevOps Scripts
+![DevOps CI Pipeline]([![DevOps CI Pipeline](https://github.com/Gouravattri-dev/devops-projects/actions/workflows/main.yml/badge.svg)](https://github.com/Gouravattri-dev/devops-projects/actions/workflows/main.yml))
+
+# 🐧 Linux DevOps Scripts# 
 
 A collection of Bash scripts for system monitoring and automation.
 
